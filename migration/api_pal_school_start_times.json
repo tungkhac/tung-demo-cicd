@@ -1,0 +1,2100 @@
+{
+  "_id" : ObjectId("5bfcc22d09c633ed1513370f"),
+  "school_name" : "マジオドライバーズスクール藤枝校",
+  "license_type" : "普通車AT",
+  "start_time" : "2018-11-01",
+  "end_time" : "2018-11-15",
+  "start_m" : "11",
+  "updated_at" : ISODate("2018-11-27T04:03:57.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:03:57.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc22d09c633ed15133710"),
+  "school_name" : "マジオドライバーズスクール藤枝校",
+  "license_type" : "普通車MT",
+  "start_time" : "2018-11-01",
+  "end_time" : "2018-11-17",
+  "start_m" : "11",
+  "updated_at" : ISODate("2018-11-27T04:03:57.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:03:57.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc22d09c633ed15133711"),
+  "school_name" : "マジオドライバーズスクール藤枝校",
+  "license_type" : "普通車AT",
+  "start_time" : "2018-11-06",
+  "end_time" : "2018-11-19",
+  "start_m" : "11",
+  "updated_at" : ISODate("2018-11-27T04:03:57.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:03:57.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc22d09c633ed15133712"),
+  "school_name" : "マジオドライバーズスクール藤枝校",
+  "license_type" : "普通車MT",
+  "start_time" : "2018-11-06",
+  "end_time" : "2018-11-22",
+  "start_m" : "11",
+  "updated_at" : ISODate("2018-11-27T04:03:57.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:03:57.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc22d09c633ed15133713"),
+  "school_name" : "マジオドライバーズスクール藤枝校",
+  "license_type" : "普通車AT",
+  "start_time" : "2018-11-08",
+  "end_time" : "2018-11-22",
+  "start_m" : "11",
+  "updated_at" : ISODate("2018-11-27T04:03:57.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:03:57.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc22d09c633ed15133714"),
+  "school_name" : "マジオドライバーズスクール藤枝校",
+  "license_type" : "普通車MT",
+  "start_time" : "2018-11-08",
+  "end_time" : "2018-11-24",
+  "start_m" : "11",
+  "updated_at" : ISODate("2018-11-27T04:03:57.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:03:57.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc22d09c633ed15133715"),
+  "school_name" : "マジオドライバーズスクール藤枝校",
+  "license_type" : "普通車AT",
+  "start_time" : "2018-11-13",
+  "end_time" : "2018-11-27",
+  "start_m" : "11",
+  "updated_at" : ISODate("2018-11-27T04:03:57.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:03:57.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc22d09c633ed15133716"),
+  "school_name" : "マジオドライバーズスクール藤枝校",
+  "license_type" : "普通車MT",
+  "start_time" : "2018-11-13",
+  "end_time" : "2018-11-29",
+  "start_m" : "11",
+  "updated_at" : ISODate("2018-11-27T04:03:57.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:03:57.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc22d09c633ed15133717"),
+  "school_name" : "マジオドライバーズスクール藤枝校",
+  "license_type" : "普通車AT",
+  "start_time" : "2018-11-15",
+  "end_time" : "2018-11-29",
+  "start_m" : "11",
+  "updated_at" : ISODate("2018-11-27T04:03:57.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:03:57.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc22d09c633ed15133718"),
+  "school_name" : "マジオドライバーズスクール藤枝校",
+  "license_type" : "普通車AT",
+  "start_time" : "2018-11-20",
+  "end_time" : "2018-12-04",
+  "start_m" : "11",
+  "updated_at" : ISODate("2018-11-27T04:03:57.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:03:57.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc22d09c633ed15133719"),
+  "school_name" : "マジオドライバーズスクール藤枝校",
+  "license_type" : "普通車MT",
+  "start_time" : "2018-11-20",
+  "end_time" : "2018-12-06",
+  "start_m" : "11",
+  "updated_at" : ISODate("2018-11-27T04:03:57.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:03:57.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc22d09c633ed1513371a"),
+  "school_name" : "マジオドライバーズスクール藤枝校",
+  "license_type" : "普通車AT",
+  "start_time" : "2018-11-22",
+  "end_time" : "2018-12-06",
+  "start_m" : "11",
+  "updated_at" : ISODate("2018-11-27T04:03:57.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:03:57.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc22d09c633ed1513371b"),
+  "school_name" : "マジオドライバーズスクール藤枝校",
+  "license_type" : "普通車MT",
+  "start_time" : "2018-11-22",
+  "end_time" : "2018-12-08",
+  "start_m" : "11",
+  "updated_at" : ISODate("2018-11-27T04:03:57.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:03:57.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc22d09c633ed1513371c"),
+  "school_name" : "マジオドライバーズスクール藤枝校",
+  "license_type" : "普通車AT",
+  "start_time" : "2018-11-27",
+  "end_time" : "2018-12-11",
+  "start_m" : "11",
+  "updated_at" : ISODate("2018-11-27T04:03:57.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:03:57.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc22d09c633ed1513371d"),
+  "school_name" : "マジオドライバーズスクール藤枝校",
+  "license_type" : "普通車MT",
+  "start_time" : "2018-11-27",
+  "end_time" : "2018-12-13",
+  "start_m" : "11",
+  "updated_at" : ISODate("2018-11-27T04:03:57.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:03:57.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc22d09c633ed1513371e"),
+  "school_name" : "マジオドライバーズスクール藤枝校",
+  "license_type" : "普通車AT",
+  "start_time" : "2018-11-29",
+  "end_time" : "2018-12-13",
+  "start_m" : "11",
+  "updated_at" : ISODate("2018-11-27T04:03:57.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:03:57.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc22d09c633ed1513371f"),
+  "school_name" : "マジオドライバーズスクール藤枝校",
+  "license_type" : "普通車MT",
+  "start_time" : "2018-11-29",
+  "end_time" : "2018-12-15",
+  "start_m" : "11",
+  "updated_at" : ISODate("2018-11-27T04:03:57.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:03:57.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc22d09c633ed15133720"),
+  "school_name" : "マジオドライバーズスクール藤枝校",
+  "license_type" : "普通車AT",
+  "start_time" : "2018-12-04",
+  "end_time" : "2018-12-18",
+  "start_m" : "12",
+  "updated_at" : ISODate("2018-11-27T04:03:57.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:03:57.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc22d09c633ed15133721"),
+  "school_name" : "マジオドライバーズスクール藤枝校",
+  "license_type" : "普通車MT",
+  "start_time" : "2018-12-04",
+  "end_time" : "2018-12-20",
+  "start_m" : "12",
+  "updated_at" : ISODate("2018-11-27T04:03:57.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:03:57.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc22d09c633ed15133722"),
+  "school_name" : "マジオドライバーズスクール藤枝校",
+  "license_type" : "普通車AT",
+  "start_time" : "2018-12-06",
+  "end_time" : "2018-12-20",
+  "start_m" : "12",
+  "updated_at" : ISODate("2018-11-27T04:03:57.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:03:57.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc22d09c633ed15133723"),
+  "school_name" : "マジオドライバーズスクール藤枝校",
+  "license_type" : "普通車MT",
+  "start_time" : "2018-12-06",
+  "end_time" : "2018-12-22",
+  "start_m" : "12",
+  "updated_at" : ISODate("2018-11-27T04:03:57.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:03:57.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc22d09c633ed15133724"),
+  "school_name" : "マジオドライバーズスクール藤枝校",
+  "license_type" : "普通車MT",
+  "start_time" : "2019-01-08",
+  "end_time" : "2019-01-24",
+  "start_m" : "01",
+  "updated_at" : ISODate("2018-11-27T04:03:57.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:03:57.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc22d09c633ed15133725"),
+  "school_name" : "マジオドライバーズスクール藤枝校",
+  "license_type" : "普通車AT",
+  "start_time" : "2019-01-10",
+  "end_time" : "2019-01-24",
+  "start_m" : "01",
+  "updated_at" : ISODate("2018-11-27T04:03:57.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:03:57.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc22d09c633ed15133726"),
+  "school_name" : "マジオドライバーズスクール藤枝校",
+  "license_type" : "普通車MT",
+  "start_time" : "2019-01-10",
+  "end_time" : "2019-01-26",
+  "start_m" : "01",
+  "updated_at" : ISODate("2018-11-27T04:03:57.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:03:57.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc22d09c633ed15133727"),
+  "school_name" : "マジオドライバーズスクール藤枝校",
+  "license_type" : "普通車AT",
+  "start_time" : "2019-01-15",
+  "end_time" : "2019-01-29",
+  "start_m" : "01",
+  "updated_at" : ISODate("2018-11-27T04:03:57.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:03:57.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc22d09c633ed15133728"),
+  "school_name" : "マジオドライバーズスクール藤枝校",
+  "license_type" : "普通車MT",
+  "start_time" : "2019-01-15",
+  "end_time" : "2019-01-31",
+  "start_m" : "01",
+  "updated_at" : ISODate("2018-11-27T04:03:57.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:03:57.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc22d09c633ed15133729"),
+  "school_name" : "マジオドライバーズスクール藤枝校",
+  "license_type" : "普通車AT",
+  "start_time" : "2019-01-17",
+  "end_time" : "2019-01-31",
+  "start_m" : "01",
+  "updated_at" : ISODate("2018-11-27T04:03:57.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:03:57.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc22d09c633ed1513372a"),
+  "school_name" : "マジオドライバーズスクール藤枝校",
+  "license_type" : "普通車MT",
+  "start_time" : "2019-01-17",
+  "end_time" : "2019-02-02",
+  "start_m" : "01",
+  "updated_at" : ISODate("2018-11-27T04:03:57.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:03:57.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc22d09c633ed1513372b"),
+  "school_name" : "マジオドライバーズスクール藤枝校",
+  "license_type" : "普通車AT",
+  "start_time" : "2019-01-22",
+  "end_time" : "2019-02-05",
+  "start_m" : "01",
+  "updated_at" : ISODate("2018-11-27T04:03:57.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:03:57.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc22d09c633ed1513372c"),
+  "school_name" : "マジオドライバーズスクール藤枝校",
+  "license_type" : "普通車MT",
+  "start_time" : "2019-01-22",
+  "end_time" : "2019-02-07",
+  "start_m" : "01",
+  "updated_at" : ISODate("2018-11-27T04:03:57.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:03:57.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc22d09c633ed1513372d"),
+  "school_name" : "マジオドライバーズスクール藤枝校",
+  "license_type" : "普通車AT",
+  "start_time" : "2019-01-24",
+  "end_time" : "2019-02-07",
+  "start_m" : "01",
+  "updated_at" : ISODate("2018-11-27T04:03:57.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:03:57.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc22d09c633ed1513372e"),
+  "school_name" : "マジオドライバーズスクール藤枝校",
+  "license_type" : "普通車MT",
+  "start_time" : "2019-01-24",
+  "end_time" : "2019-02-09",
+  "start_m" : "01",
+  "updated_at" : ISODate("2018-11-27T04:03:57.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:03:57.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc22d09c633ed1513372f"),
+  "school_name" : "マジオドライバーズスクール藤枝校",
+  "license_type" : "普通車AT",
+  "start_time" : "2019-01-26",
+  "end_time" : "2019-02-09",
+  "start_m" : "01",
+  "updated_at" : ISODate("2018-11-27T04:03:57.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:03:57.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc22d09c633ed15133730"),
+  "school_name" : "マジオドライバーズスクール藤枝校",
+  "license_type" : "普通車AT",
+  "start_time" : "2019-01-29",
+  "end_time" : "2019-02-12",
+  "start_m" : "01",
+  "updated_at" : ISODate("2018-11-27T04:03:57.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:03:57.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc22d09c633ed15133731"),
+  "school_name" : "マジオドライバーズスクール藤枝校",
+  "license_type" : "普通車MT",
+  "start_time" : "2019-01-29",
+  "end_time" : "2019-02-14",
+  "start_m" : "01",
+  "updated_at" : ISODate("2018-11-27T04:03:57.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:03:57.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc22d09c633ed15133732"),
+  "school_name" : "マジオドライバーズスクール藤枝校",
+  "license_type" : "普通車AT",
+  "start_time" : "2019-01-31",
+  "end_time" : "2019-02-14",
+  "start_m" : "01",
+  "updated_at" : ISODate("2018-11-27T04:03:57.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:03:57.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc22d09c633ed15133733"),
+  "school_name" : "マジオドライバーズスクール藤枝校",
+  "license_type" : "普通車MT",
+  "start_time" : "2019-01-31",
+  "end_time" : "2019-02-16",
+  "start_m" : "01",
+  "updated_at" : ISODate("2018-11-27T04:03:57.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:03:57.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc22d09c633ed15133734"),
+  "school_name" : "マジオドライバーズスクール藤枝校",
+  "license_type" : "普通車AT",
+  "start_time" : "2019-02-02",
+  "end_time" : "2019-02-16",
+  "start_m" : "02",
+  "updated_at" : ISODate("2018-11-27T04:03:57.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:03:57.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc22d09c633ed15133735"),
+  "school_name" : "マジオドライバーズスクール藤枝校",
+  "license_type" : "普通車MT",
+  "start_time" : "2019-02-05",
+  "end_time" : "2019-02-21",
+  "start_m" : "02",
+  "updated_at" : ISODate("2018-11-27T04:03:57.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:03:57.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc22d09c633ed15133736"),
+  "school_name" : "マジオドライバーズスクール藤枝校",
+  "license_type" : "普通車AT",
+  "start_time" : "2019-02-07",
+  "end_time" : "2019-02-21",
+  "start_m" : "02",
+  "updated_at" : ISODate("2018-11-27T04:03:57.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:03:57.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc22d09c633ed15133737"),
+  "school_name" : "マジオドライバーズスクール藤枝校",
+  "license_type" : "普通車MT",
+  "start_time" : "2019-02-07",
+  "end_time" : "2019-02-23",
+  "start_m" : "02",
+  "updated_at" : ISODate("2018-11-27T04:03:57.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:03:57.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc22d09c633ed15133738"),
+  "school_name" : "マジオドライバーズスクール藤枝校",
+  "license_type" : "普通車AT",
+  "start_time" : "2019-02-12",
+  "end_time" : "2019-02-26",
+  "start_m" : "02",
+  "updated_at" : ISODate("2018-11-27T04:03:57.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:03:57.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc22d09c633ed15133739"),
+  "school_name" : "マジオドライバーズスクール藤枝校",
+  "license_type" : "普通車MT",
+  "start_time" : "2019-02-12",
+  "end_time" : "2019-02-28",
+  "start_m" : "02",
+  "updated_at" : ISODate("2018-11-27T04:03:57.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:03:57.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc22d09c633ed1513373a"),
+  "school_name" : "マジオドライバーズスクール藤枝校",
+  "license_type" : "普通車AT",
+  "start_time" : "2019-02-14",
+  "end_time" : "2019-02-28",
+  "start_m" : "02",
+  "updated_at" : ISODate("2018-11-27T04:03:57.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:03:57.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc22d09c633ed1513373b"),
+  "school_name" : "マジオドライバーズスクール藤枝校",
+  "license_type" : "普通車MT",
+  "start_time" : "2019-02-14",
+  "end_time" : "2019-03-02",
+  "start_m" : "02",
+  "updated_at" : ISODate("2018-11-27T04:03:57.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:03:57.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc22d09c633ed1513373c"),
+  "school_name" : "マジオドライバーズスクール藤枝校",
+  "license_type" : "普通車AT",
+  "start_time" : "2019-02-19",
+  "end_time" : "2019-03-05",
+  "start_m" : "02",
+  "updated_at" : ISODate("2018-11-27T04:03:57.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:03:57.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc22d09c633ed1513373d"),
+  "school_name" : "マジオドライバーズスクール藤枝校",
+  "license_type" : "普通車MT",
+  "start_time" : "2019-02-19",
+  "end_time" : "2019-03-07",
+  "start_m" : "02",
+  "updated_at" : ISODate("2018-11-27T04:03:57.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:03:57.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc22d09c633ed1513373e"),
+  "school_name" : "マジオドライバーズスクール藤枝校",
+  "license_type" : "普通車AT",
+  "start_time" : "2019-02-21",
+  "end_time" : "2019-03-07",
+  "start_m" : "02",
+  "updated_at" : ISODate("2018-11-27T04:03:57.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:03:57.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc22d09c633ed1513373f"),
+  "school_name" : "マジオドライバーズスクール藤枝校",
+  "license_type" : "普通車MT",
+  "start_time" : "2019-02-21",
+  "end_time" : "2019-03-09",
+  "start_m" : "02",
+  "updated_at" : ISODate("2018-11-27T04:03:57.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:03:57.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc22d09c633ed15133740"),
+  "school_name" : "マジオドライバーズスクール藤枝校",
+  "license_type" : "普通車AT",
+  "start_time" : "2019-02-26",
+  "end_time" : "2019-03-12",
+  "start_m" : "02",
+  "updated_at" : ISODate("2018-11-27T04:03:57.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:03:57.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc22d09c633ed15133741"),
+  "school_name" : "マジオドライバーズスクール藤枝校",
+  "license_type" : "普通車MT",
+  "start_time" : "2019-02-26",
+  "end_time" : "2019-03-14",
+  "start_m" : "02",
+  "updated_at" : ISODate("2018-11-27T04:03:57.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:03:57.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc22d09c633ed15133742"),
+  "school_name" : "マジオドライバーズスクール藤枝校",
+  "license_type" : "普通車AT",
+  "start_time" : "2019-02-28",
+  "end_time" : "2019-03-14",
+  "start_m" : "02",
+  "updated_at" : ISODate("2018-11-27T04:03:57.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:03:57.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc22d09c633ed15133743"),
+  "school_name" : "マジオドライバーズスクール藤枝校",
+  "license_type" : "普通車MT",
+  "start_time" : "2019-02-28",
+  "end_time" : "2019-03-16",
+  "start_m" : "02",
+  "updated_at" : ISODate("2018-11-27T04:03:57.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:03:57.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc22d09c633ed15133744"),
+  "school_name" : "マジオドライバーズスクール藤枝校",
+  "license_type" : "普通車AT",
+  "start_time" : "2019-03-05",
+  "end_time" : "2019-03-19",
+  "start_m" : "03",
+  "updated_at" : ISODate("2018-11-27T04:03:57.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:03:57.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc22d09c633ed15133745"),
+  "school_name" : "マジオドライバーズスクール藤枝校",
+  "license_type" : "普通車MT",
+  "start_time" : "2019-03-05",
+  "end_time" : "2019-03-21",
+  "start_m" : "03",
+  "updated_at" : ISODate("2018-11-27T04:03:57.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:03:57.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc22d09c633ed15133746"),
+  "school_name" : "マジオドライバーズスクール藤枝校",
+  "license_type" : "普通車AT",
+  "start_time" : "2019-03-07",
+  "end_time" : "2019-03-21",
+  "start_m" : "03",
+  "updated_at" : ISODate("2018-11-27T04:03:57.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:03:57.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc22d09c633ed15133747"),
+  "school_name" : "マジオドライバーズスクール藤枝校",
+  "license_type" : "普通車MT",
+  "start_time" : "2019-03-07",
+  "end_time" : "2019-03-23",
+  "start_m" : "03",
+  "updated_at" : ISODate("2018-11-27T04:03:57.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:03:57.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc22d09c633ed15133748"),
+  "school_name" : "マジオドライバーズスクール藤枝校",
+  "license_type" : "普通車AT",
+  "start_time" : "2019-03-12",
+  "end_time" : "2019-03-26",
+  "start_m" : "03",
+  "updated_at" : ISODate("2018-11-27T04:03:57.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:03:57.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc22d09c633ed15133749"),
+  "school_name" : "マジオドライバーズスクール藤枝校",
+  "license_type" : "普通車MT",
+  "start_time" : "2019-03-12",
+  "end_time" : "2019-03-28",
+  "start_m" : "03",
+  "updated_at" : ISODate("2018-11-27T04:03:57.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:03:57.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc22d09c633ed1513374a"),
+  "school_name" : "マジオドライバーズスクール藤枝校",
+  "license_type" : "普通車AT",
+  "start_time" : "2019-03-14",
+  "end_time" : "2019-03-28",
+  "start_m" : "03",
+  "updated_at" : ISODate("2018-11-27T04:03:57.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:03:57.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc22d09c633ed1513374b"),
+  "school_name" : "マジオドライバーズスクール藤枝校",
+  "license_type" : "普通車MT",
+  "start_time" : "2019-03-14",
+  "end_time" : "2019-03-30",
+  "start_m" : "03",
+  "updated_at" : ISODate("2018-11-27T04:03:57.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:03:57.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc22d09c633ed1513374c"),
+  "school_name" : "マジオドライバーズスクール藤枝校",
+  "license_type" : "普通車AT",
+  "start_time" : "2019-03-16",
+  "end_time" : "2019-03-30",
+  "start_m" : "03",
+  "updated_at" : ISODate("2018-11-27T04:03:57.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:03:57.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc22d09c633ed1513374d"),
+  "school_name" : "マジオドライバーズスクール藤枝校",
+  "license_type" : "普通車AT",
+  "start_time" : "2019-03-19",
+  "end_time" : "2019-04-02",
+  "start_m" : "03",
+  "updated_at" : ISODate("2018-11-27T04:03:57.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:03:57.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc22d09c633ed1513374e"),
+  "school_name" : "マジオドライバーズスクール藤枝校",
+  "license_type" : "普通車MT",
+  "start_time" : "2019-03-19",
+  "end_time" : "2019-04-04",
+  "start_m" : "03",
+  "updated_at" : ISODate("2018-11-27T04:03:57.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:03:57.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc22d09c633ed1513374f"),
+  "school_name" : "マジオドライバーズスクール藤枝校",
+  "license_type" : "普通車AT",
+  "start_time" : "2019-03-21",
+  "end_time" : "2019-04-04",
+  "start_m" : "03",
+  "updated_at" : ISODate("2018-11-27T04:03:57.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:03:57.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc22d09c633ed15133750"),
+  "school_name" : "マジオドライバーズスクール藤枝校",
+  "license_type" : "普通車MT",
+  "start_time" : "2019-03-21",
+  "end_time" : "2019-04-06",
+  "start_m" : "03",
+  "updated_at" : ISODate("2018-11-27T04:03:57.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:03:57.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc22d09c633ed15133751"),
+  "school_name" : "マジオドライバーズスクール藤枝校",
+  "license_type" : "普通車AT",
+  "start_time" : "2019-03-26",
+  "end_time" : "2019-04-09",
+  "start_m" : "03",
+  "updated_at" : ISODate("2018-11-27T04:03:57.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:03:57.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc22d09c633ed15133752"),
+  "school_name" : "マジオドライバーズスクール藤枝校",
+  "license_type" : "普通車MT",
+  "start_time" : "2019-03-26",
+  "end_time" : "2019-04-11",
+  "start_m" : "03",
+  "updated_at" : ISODate("2018-11-27T04:03:57.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:03:57.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc22d09c633ed15133753"),
+  "school_name" : "マジオドライバーズスクール藤枝校",
+  "license_type" : "普通車AT",
+  "start_time" : "2019-03-28",
+  "end_time" : "2019-04-11",
+  "start_m" : "03",
+  "updated_at" : ISODate("2018-11-27T04:03:57.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:03:57.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc22d09c633ed15133754"),
+  "school_name" : "マジオドライバーズスクール藤枝校",
+  "license_type" : "普通車MT",
+  "start_time" : "2019-03-28",
+  "end_time" : "2019-04-13",
+  "start_m" : "03",
+  "updated_at" : ISODate("2018-11-27T04:03:57.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:03:57.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc22d09c633ed15133755"),
+  "school_name" : "マジオドライバーズスクール藤枝校",
+  "license_type" : "普通車AT",
+  "start_time" : "2019-04-02",
+  "end_time" : "2019-04-16",
+  "start_m" : "04",
+  "updated_at" : ISODate("2018-11-27T04:03:57.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:03:57.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc22d09c633ed15133756"),
+  "school_name" : "マジオドライバーズスクール藤枝校",
+  "license_type" : "普通車MT",
+  "start_time" : "2019-04-02",
+  "end_time" : "2019-04-18",
+  "start_m" : "04",
+  "updated_at" : ISODate("2018-11-27T04:03:57.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:03:57.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc22d09c633ed15133757"),
+  "school_name" : "マジオドライバーズスクール藤枝校",
+  "license_type" : "普通車AT",
+  "start_time" : "2019-04-04",
+  "end_time" : "2019-04-18",
+  "start_m" : "04",
+  "updated_at" : ISODate("2018-11-27T04:03:57.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:03:57.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc22d09c633ed15133758"),
+  "school_name" : "マジオドライバーズスクール藤枝校",
+  "license_type" : "普通車MT",
+  "start_time" : "2019-04-04",
+  "end_time" : "2019-04-20",
+  "start_m" : "04",
+  "updated_at" : ISODate("2018-11-27T04:03:57.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:03:57.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc22d09c633ed15133759"),
+  "school_name" : "マジオドライバーズスクール藤枝校",
+  "license_type" : "普通車AT",
+  "start_time" : "2019-04-09",
+  "end_time" : "2019-04-23",
+  "start_m" : "04",
+  "updated_at" : ISODate("2018-11-27T04:03:57.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:03:57.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc22d09c633ed1513375a"),
+  "school_name" : "マジオドライバーズスクール藤枝校",
+  "license_type" : "普通車MT",
+  "start_time" : "2019-04-09",
+  "end_time" : "2019-04-25",
+  "start_m" : "04",
+  "updated_at" : ISODate("2018-11-27T04:03:57.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:03:57.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc22d09c633ed1513375b"),
+  "school_name" : "マジオドライバーズスクール藤枝校",
+  "license_type" : "普通車AT",
+  "start_time" : "2019-04-11",
+  "end_time" : "2019-04-25",
+  "start_m" : "04",
+  "updated_at" : ISODate("2018-11-27T04:03:57.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:03:57.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc22d09c633ed1513375c"),
+  "school_name" : "マジオドライバーズスクール藤枝校",
+  "license_type" : "普通車MT",
+  "start_time" : "2019-04-11",
+  "end_time" : "2019-04-27",
+  "start_m" : "04",
+  "updated_at" : ISODate("2018-11-27T04:03:57.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:03:57.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc22d09c633ed1513375d"),
+  "school_name" : "マジオドライバーズスクール藤枝校",
+  "license_type" : "普通車AT",
+  "start_time" : "2019-04-16",
+  "end_time" : "2019-04-30",
+  "start_m" : "04",
+  "updated_at" : ISODate("2018-11-27T04:03:57.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:03:57.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc22d09c633ed1513375e"),
+  "school_name" : "マジオドライバーズスクール藤枝校",
+  "license_type" : "普通車MT",
+  "start_time" : "2019-04-16",
+  "end_time" : "2019-05-02",
+  "start_m" : "04",
+  "updated_at" : ISODate("2018-11-27T04:03:57.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:03:57.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc22d09c633ed1513375f"),
+  "school_name" : "マジオドライバーズスクール藤枝校",
+  "license_type" : "普通車AT",
+  "start_time" : "2019-04-18",
+  "end_time" : "2019-05-02",
+  "start_m" : "04",
+  "updated_at" : ISODate("2018-11-27T04:03:57.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:03:57.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc22d09c633ed15133760"),
+  "school_name" : "マジオドライバーズスクール藤枝校",
+  "license_type" : "普通車MT",
+  "start_time" : "2019-04-18",
+  "end_time" : "2019-05-04",
+  "start_m" : "04",
+  "updated_at" : ISODate("2018-11-27T04:03:57.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:03:57.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc22d09c633ed15133761"),
+  "school_name" : "マジオドライバーズスクール藤枝校",
+  "license_type" : "普通車AT",
+  "start_time" : "2019-05-02",
+  "end_time" : "2019-05-16",
+  "start_m" : "05",
+  "updated_at" : ISODate("2018-11-27T04:03:57.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:03:57.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc22d09c633ed15133762"),
+  "school_name" : "マジオドライバーズスクール藤枝校",
+  "license_type" : "普通車MT",
+  "start_time" : "2019-05-02",
+  "end_time" : "2019-05-18",
+  "start_m" : "05",
+  "updated_at" : ISODate("2018-11-27T04:03:57.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:03:57.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc22d09c633ed15133763"),
+  "school_name" : "マジオドライバーズスクール藤枝校",
+  "license_type" : "普通車AT",
+  "start_time" : "2019-05-07",
+  "end_time" : "2019-05-21",
+  "start_m" : "05",
+  "updated_at" : ISODate("2018-11-27T04:03:57.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:03:57.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc22d09c633ed15133764"),
+  "school_name" : "マジオドライバーズスクール藤枝校",
+  "license_type" : "普通車MT",
+  "start_time" : "2019-05-07",
+  "end_time" : "2019-05-23",
+  "start_m" : "05",
+  "updated_at" : ISODate("2018-11-27T04:03:57.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:03:57.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc22d09c633ed15133765"),
+  "school_name" : "マジオドライバーズスクール藤枝校",
+  "license_type" : "普通車AT",
+  "start_time" : "2019-05-09",
+  "end_time" : "2019-05-23",
+  "start_m" : "05",
+  "updated_at" : ISODate("2018-11-27T04:03:57.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:03:57.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc22d09c633ed15133766"),
+  "school_name" : "マジオドライバーズスクール藤枝校",
+  "license_type" : "普通車MT",
+  "start_time" : "2019-05-09",
+  "end_time" : "2019-05-25",
+  "start_m" : "05",
+  "updated_at" : ISODate("2018-11-27T04:03:57.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:03:57.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc22d09c633ed15133767"),
+  "school_name" : "マジオドライバーズスクール藤枝校",
+  "license_type" : "普通車AT",
+  "start_time" : "2019-05-14",
+  "end_time" : "2019-05-28",
+  "start_m" : "05",
+  "updated_at" : ISODate("2018-11-27T04:03:57.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:03:57.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc22d09c633ed15133768"),
+  "school_name" : "マジオドライバーズスクール藤枝校",
+  "license_type" : "普通車MT",
+  "start_time" : "2019-05-14",
+  "end_time" : "2019-05-30",
+  "start_m" : "05",
+  "updated_at" : ISODate("2018-11-27T04:03:57.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:03:57.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc22d09c633ed15133769"),
+  "school_name" : "マジオドライバーズスクール藤枝校",
+  "license_type" : "普通車AT",
+  "start_time" : "2019-05-16",
+  "end_time" : "2019-05-30",
+  "start_m" : "05",
+  "updated_at" : ISODate("2018-11-27T04:03:57.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:03:57.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc22d09c633ed1513376a"),
+  "school_name" : "マジオドライバーズスクール藤枝校",
+  "license_type" : "普通車MT",
+  "start_time" : "2019-05-16",
+  "end_time" : "2019-06-01",
+  "start_m" : "05",
+  "updated_at" : ISODate("2018-11-27T04:03:57.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:03:57.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc22d09c633ed1513376b"),
+  "school_name" : "マジオドライバーズスクール藤枝校",
+  "license_type" : "普通車AT",
+  "start_time" : "2019-05-21",
+  "end_time" : "2019-06-04",
+  "start_m" : "05",
+  "updated_at" : ISODate("2018-11-27T04:03:57.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:03:57.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc22d09c633ed1513376c"),
+  "school_name" : "マジオドライバーズスクール藤枝校",
+  "license_type" : "普通車MT",
+  "start_time" : "2019-05-21",
+  "end_time" : "2019-06-06",
+  "start_m" : "05",
+  "updated_at" : ISODate("2018-11-27T04:03:57.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:03:57.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc22d09c633ed1513376d"),
+  "school_name" : "マジオドライバーズスクール藤枝校",
+  "license_type" : "普通車AT",
+  "start_time" : "2019-05-23",
+  "end_time" : "2019-06-06",
+  "start_m" : "05",
+  "updated_at" : ISODate("2018-11-27T04:03:57.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:03:57.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc22d09c633ed1513376e"),
+  "school_name" : "マジオドライバーズスクール藤枝校",
+  "license_type" : "普通車MT",
+  "start_time" : "2019-05-23",
+  "end_time" : "2019-06-08",
+  "start_m" : "05",
+  "updated_at" : ISODate("2018-11-27T04:03:57.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:03:57.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc22d09c633ed1513376f"),
+  "school_name" : "マジオドライバーズスクール藤枝校",
+  "license_type" : "普通車AT",
+  "start_time" : "2019-05-28",
+  "end_time" : "2019-06-11",
+  "start_m" : "05",
+  "updated_at" : ISODate("2018-11-27T04:03:57.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:03:57.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc22d09c633ed15133770"),
+  "school_name" : "マジオドライバーズスクール藤枝校",
+  "license_type" : "普通車MT",
+  "start_time" : "2019-05-28",
+  "end_time" : "2019-06-13",
+  "start_m" : "05",
+  "updated_at" : ISODate("2018-11-27T04:03:57.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:03:57.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc22d09c633ed15133771"),
+  "school_name" : "マジオドライバーズスクール藤枝校",
+  "license_type" : "普通車AT",
+  "start_time" : "2019-05-30",
+  "end_time" : "2019-06-13",
+  "start_m" : "05",
+  "updated_at" : ISODate("2018-11-27T04:03:57.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:03:57.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc22d09c633ed15133772"),
+  "school_name" : "マジオドライバーズスクール藤枝校",
+  "license_type" : "普通車MT",
+  "start_time" : "2019-05-30",
+  "end_time" : "2019-06-15",
+  "start_m" : "05",
+  "updated_at" : ISODate("2018-11-27T04:03:57.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:03:57.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc23209c633ed15133794"),
+  "school_name" : "マジオドライバーズスクール熱海校",
+  "license_type" : "普通車AT",
+  "start_time" : "2018-11-01",
+  "end_time" : "2018-11-15",
+  "start_m" : "11",
+  "updated_at" : ISODate("2018-11-27T04:04:02.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:04:02.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc23209c633ed15133795"),
+  "school_name" : "マジオドライバーズスクール熱海校",
+  "license_type" : "普通車MT",
+  "start_time" : "2018-11-04",
+  "end_time" : "2018-11-20",
+  "start_m" : "11",
+  "updated_at" : ISODate("2018-11-27T04:04:02.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:04:02.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc23209c633ed15133796"),
+  "school_name" : "マジオドライバーズスクール熱海校",
+  "license_type" : "普通車AT",
+  "start_time" : "2018-11-06",
+  "end_time" : "2018-11-20",
+  "start_m" : "11",
+  "updated_at" : ISODate("2018-11-27T04:04:02.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:04:02.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc23209c633ed15133797"),
+  "school_name" : "マジオドライバーズスクール熱海校",
+  "license_type" : "普通車MT",
+  "start_time" : "2018-11-06",
+  "end_time" : "2018-11-22",
+  "start_m" : "11",
+  "updated_at" : ISODate("2018-11-27T04:04:02.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:04:02.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc23209c633ed15133798"),
+  "school_name" : "マジオドライバーズスクール熱海校",
+  "license_type" : "普通車AT",
+  "start_time" : "2018-11-08",
+  "end_time" : "2018-11-22",
+  "start_m" : "11",
+  "updated_at" : ISODate("2018-11-27T04:04:02.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:04:02.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc23209c633ed15133799"),
+  "school_name" : "マジオドライバーズスクール熱海校",
+  "license_type" : "普通車MT",
+  "start_time" : "2018-11-11",
+  "end_time" : "2018-11-27",
+  "start_m" : "11",
+  "updated_at" : ISODate("2018-11-27T04:04:02.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:04:02.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc23209c633ed1513379a"),
+  "school_name" : "マジオドライバーズスクール熱海校",
+  "license_type" : "普通車AT",
+  "start_time" : "2018-11-13",
+  "end_time" : "2018-11-27",
+  "start_m" : "11",
+  "updated_at" : ISODate("2018-11-27T04:04:02.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:04:02.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc23209c633ed1513379b"),
+  "school_name" : "マジオドライバーズスクール熱海校",
+  "license_type" : "普通車MT",
+  "start_time" : "2018-11-13",
+  "end_time" : "2018-11-29",
+  "start_m" : "11",
+  "updated_at" : ISODate("2018-11-27T04:04:02.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:04:02.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc23209c633ed1513379c"),
+  "school_name" : "マジオドライバーズスクール熱海校",
+  "license_type" : "普通車AT",
+  "start_time" : "2018-11-15",
+  "end_time" : "2018-11-29",
+  "start_m" : "11",
+  "updated_at" : ISODate("2018-11-27T04:04:02.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:04:02.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc23209c633ed1513379d"),
+  "school_name" : "マジオドライバーズスクール熱海校",
+  "license_type" : "普通車MT",
+  "start_time" : "2018-11-18",
+  "end_time" : "2018-12-04",
+  "start_m" : "11",
+  "updated_at" : ISODate("2018-11-27T04:04:02.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:04:02.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc23209c633ed1513379e"),
+  "school_name" : "マジオドライバーズスクール熱海校",
+  "license_type" : "普通車AT",
+  "start_time" : "2018-11-20",
+  "end_time" : "2018-12-04",
+  "start_m" : "11",
+  "updated_at" : ISODate("2018-11-27T04:04:02.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:04:02.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc23209c633ed1513379f"),
+  "school_name" : "マジオドライバーズスクール熱海校",
+  "license_type" : "普通車MT",
+  "start_time" : "2018-11-20",
+  "end_time" : "2018-12-06",
+  "start_m" : "11",
+  "updated_at" : ISODate("2018-11-27T04:04:02.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:04:02.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc23209c633ed151337a0"),
+  "school_name" : "マジオドライバーズスクール熱海校",
+  "license_type" : "普通車AT",
+  "start_time" : "2018-11-22",
+  "end_time" : "2018-12-06",
+  "start_m" : "11",
+  "updated_at" : ISODate("2018-11-27T04:04:02.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:04:02.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc23209c633ed151337a1"),
+  "school_name" : "マジオドライバーズスクール熱海校",
+  "license_type" : "普通車MT",
+  "start_time" : "2018-11-25",
+  "end_time" : "2018-12-11",
+  "start_m" : "11",
+  "updated_at" : ISODate("2018-11-27T04:04:02.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:04:02.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc23209c633ed151337a2"),
+  "school_name" : "マジオドライバーズスクール熱海校",
+  "license_type" : "普通車AT",
+  "start_time" : "2018-11-27",
+  "end_time" : "2018-12-11",
+  "start_m" : "11",
+  "updated_at" : ISODate("2018-11-27T04:04:02.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:04:02.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc23209c633ed151337a3"),
+  "school_name" : "マジオドライバーズスクール熱海校",
+  "license_type" : "普通車MT",
+  "start_time" : "2018-11-27",
+  "end_time" : "2018-12-13",
+  "start_m" : "11",
+  "updated_at" : ISODate("2018-11-27T04:04:02.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:04:02.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc23209c633ed151337a4"),
+  "school_name" : "マジオドライバーズスクール熱海校",
+  "license_type" : "普通車AT",
+  "start_time" : "2018-11-29",
+  "end_time" : "2018-12-13",
+  "start_m" : "11",
+  "updated_at" : ISODate("2018-11-27T04:04:02.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:04:02.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc23209c633ed151337a5"),
+  "school_name" : "マジオドライバーズスクール熱海校",
+  "license_type" : "普通車MT",
+  "start_time" : "2018-12-02",
+  "end_time" : "2018-12-18",
+  "start_m" : "12",
+  "updated_at" : ISODate("2018-11-27T04:04:02.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:04:02.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc23209c633ed151337a6"),
+  "school_name" : "マジオドライバーズスクール熱海校",
+  "license_type" : "普通車AT",
+  "start_time" : "2018-12-04",
+  "end_time" : "2018-12-18",
+  "start_m" : "12",
+  "updated_at" : ISODate("2018-11-27T04:04:02.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:04:02.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc23209c633ed151337a7"),
+  "school_name" : "マジオドライバーズスクール熱海校",
+  "license_type" : "普通車MT",
+  "start_time" : "2018-12-04",
+  "end_time" : "2018-12-20",
+  "start_m" : "12",
+  "updated_at" : ISODate("2018-11-27T04:04:02.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:04:02.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc23209c633ed151337a8"),
+  "school_name" : "マジオドライバーズスクール熱海校",
+  "license_type" : "普通車AT",
+  "start_time" : "2018-12-06",
+  "end_time" : "2018-12-20",
+  "start_m" : "12",
+  "updated_at" : ISODate("2018-11-27T04:04:02.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:04:02.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc23209c633ed151337a9"),
+  "school_name" : "マジオドライバーズスクール熱海校",
+  "license_type" : "普通車MT",
+  "start_time" : "2018-12-09",
+  "end_time" : "2018-12-25",
+  "start_m" : "12",
+  "updated_at" : ISODate("2018-11-27T04:04:02.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:04:02.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc23209c633ed151337aa"),
+  "school_name" : "マジオドライバーズスクール熱海校",
+  "license_type" : "普通車AT",
+  "start_time" : "2018-12-11",
+  "end_time" : "2018-12-25",
+  "start_m" : "12",
+  "updated_at" : ISODate("2018-11-27T04:04:02.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:04:02.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc23209c633ed151337ab"),
+  "school_name" : "マジオドライバーズスクール熱海校",
+  "license_type" : "普通車MT",
+  "start_time" : "2018-12-11",
+  "end_time" : "2018-12-27",
+  "start_m" : "12",
+  "updated_at" : ISODate("2018-11-27T04:04:02.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:04:02.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc23209c633ed151337ac"),
+  "school_name" : "マジオドライバーズスクール熱海校",
+  "license_type" : "普通車AT",
+  "start_time" : "2018-12-13",
+  "end_time" : "2018-12-27",
+  "start_m" : "12",
+  "updated_at" : ISODate("2018-11-27T04:04:02.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:04:02.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc23209c633ed151337ad"),
+  "school_name" : "マジオドライバーズスクール熱海校",
+  "license_type" : "普通車MT",
+  "start_time" : "2018-12-16",
+  "end_time" : "2019-01-10",
+  "start_m" : "12",
+  "updated_at" : ISODate("2018-11-27T04:04:02.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:04:02.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc23209c633ed151337ae"),
+  "school_name" : "マジオドライバーズスクール熱海校",
+  "license_type" : "普通車AT",
+  "start_time" : "2018-12-18",
+  "end_time" : "2019-01-10",
+  "start_m" : "12",
+  "updated_at" : ISODate("2018-11-27T04:04:02.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:04:02.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc23209c633ed151337af"),
+  "school_name" : "マジオドライバーズスクール熱海校",
+  "license_type" : "普通車MT",
+  "start_time" : "2018-12-18",
+  "end_time" : "2019-01-10",
+  "start_m" : "12",
+  "updated_at" : ISODate("2018-11-27T04:04:02.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:04:02.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc23209c633ed151337b0"),
+  "school_name" : "マジオドライバーズスクール熱海校",
+  "license_type" : "普通車AT",
+  "start_time" : "2018-12-20",
+  "end_time" : "2019-01-10",
+  "start_m" : "12",
+  "updated_at" : ISODate("2018-11-27T04:04:02.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:04:02.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc23209c633ed151337b1"),
+  "school_name" : "マジオドライバーズスクール熱海校",
+  "license_type" : "普通車MT",
+  "start_time" : "2018-12-23",
+  "end_time" : "2019-01-17",
+  "start_m" : "12",
+  "updated_at" : ISODate("2018-11-27T04:04:02.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:04:02.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc23209c633ed151337b2"),
+  "school_name" : "マジオドライバーズスクール熱海校",
+  "license_type" : "普通車AT",
+  "start_time" : "2018-12-25",
+  "end_time" : "2019-01-17",
+  "start_m" : "12",
+  "updated_at" : ISODate("2018-11-27T04:04:02.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:04:02.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc23209c633ed151337b3"),
+  "school_name" : "マジオドライバーズスクール熱海校",
+  "license_type" : "普通車MT",
+  "start_time" : "2018-12-25",
+  "end_time" : "2019-01-17",
+  "start_m" : "12",
+  "updated_at" : ISODate("2018-11-27T04:04:02.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:04:02.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc23209c633ed151337b4"),
+  "school_name" : "マジオドライバーズスクール熱海校",
+  "license_type" : "普通車AT",
+  "start_time" : "2018-12-27",
+  "end_time" : "2019-01-20",
+  "start_m" : "12",
+  "updated_at" : ISODate("2018-11-27T04:04:02.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:04:02.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc23209c633ed151337b5"),
+  "school_name" : "マジオドライバーズスクール熱海校",
+  "license_type" : "普通車AT",
+  "start_time" : "2019-01-05",
+  "end_time" : "2019-01-20",
+  "start_m" : "01",
+  "updated_at" : ISODate("2018-11-27T04:04:02.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:04:02.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc23209c633ed151337b6"),
+  "school_name" : "マジオドライバーズスクール熱海校",
+  "license_type" : "普通車MT",
+  "start_time" : "2019-01-06",
+  "end_time" : "2019-01-22",
+  "start_m" : "01",
+  "updated_at" : ISODate("2018-11-27T04:04:02.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:04:02.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc23209c633ed151337b7"),
+  "school_name" : "マジオドライバーズスクール熱海校",
+  "license_type" : "普通車AT",
+  "start_time" : "2019-01-08",
+  "end_time" : "2019-01-22",
+  "start_m" : "01",
+  "updated_at" : ISODate("2018-11-27T04:04:02.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:04:02.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc23209c633ed151337b8"),
+  "school_name" : "マジオドライバーズスクール熱海校",
+  "license_type" : "普通車MT",
+  "start_time" : "2019-01-08",
+  "end_time" : "2019-01-24",
+  "start_m" : "01",
+  "updated_at" : ISODate("2018-11-27T04:04:02.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:04:02.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc23209c633ed151337b9"),
+  "school_name" : "マジオドライバーズスクール熱海校",
+  "license_type" : "普通車AT",
+  "start_time" : "2019-01-10",
+  "end_time" : "2019-01-24",
+  "start_m" : "01",
+  "updated_at" : ISODate("2018-11-27T04:04:02.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:04:02.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc23209c633ed151337ba"),
+  "school_name" : "マジオドライバーズスクール熱海校",
+  "license_type" : "普通車MT",
+  "start_time" : "2019-01-13",
+  "end_time" : "2019-01-29",
+  "start_m" : "01",
+  "updated_at" : ISODate("2018-11-27T04:04:02.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:04:02.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc23209c633ed151337bb"),
+  "school_name" : "マジオドライバーズスクール熱海校",
+  "license_type" : "普通車AT",
+  "start_time" : "2019-01-15",
+  "end_time" : "2019-01-29",
+  "start_m" : "01",
+  "updated_at" : ISODate("2018-11-27T04:04:02.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:04:02.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc23209c633ed151337bc"),
+  "school_name" : "マジオドライバーズスクール熱海校",
+  "license_type" : "普通車MT",
+  "start_time" : "2019-01-15",
+  "end_time" : "2019-01-31",
+  "start_m" : "01",
+  "updated_at" : ISODate("2018-11-27T04:04:02.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:04:02.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc23209c633ed151337bd"),
+  "school_name" : "マジオドライバーズスクール熱海校",
+  "license_type" : "普通車AT",
+  "start_time" : "2019-01-17",
+  "end_time" : "2019-01-31",
+  "start_m" : "01",
+  "updated_at" : ISODate("2018-11-27T04:04:02.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:04:02.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc23209c633ed151337be"),
+  "school_name" : "マジオドライバーズスクール熱海校",
+  "license_type" : "普通車MT",
+  "start_time" : "2019-01-20",
+  "end_time" : "2019-02-05",
+  "start_m" : "01",
+  "updated_at" : ISODate("2018-11-27T04:04:02.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:04:02.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc23209c633ed151337bf"),
+  "school_name" : "マジオドライバーズスクール熱海校",
+  "license_type" : "普通車AT",
+  "start_time" : "2019-01-22",
+  "end_time" : "2019-02-05",
+  "start_m" : "01",
+  "updated_at" : ISODate("2018-11-27T04:04:02.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:04:02.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc23209c633ed151337c0"),
+  "school_name" : "マジオドライバーズスクール熱海校",
+  "license_type" : "普通車MT",
+  "start_time" : "2019-01-22",
+  "end_time" : "2019-02-07",
+  "start_m" : "01",
+  "updated_at" : ISODate("2018-11-27T04:04:02.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:04:02.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc23209c633ed151337c1"),
+  "school_name" : "マジオドライバーズスクール熱海校",
+  "license_type" : "普通車AT",
+  "start_time" : "2019-01-24",
+  "end_time" : "2019-02-07",
+  "start_m" : "01",
+  "updated_at" : ISODate("2018-11-27T04:04:02.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:04:02.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc23209c633ed151337c2"),
+  "school_name" : "マジオドライバーズスクール熱海校",
+  "license_type" : "普通車MT",
+  "start_time" : "2019-01-27",
+  "end_time" : "2019-02-12",
+  "start_m" : "01",
+  "updated_at" : ISODate("2018-11-27T04:04:02.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:04:02.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc23209c633ed151337c3"),
+  "school_name" : "マジオドライバーズスクール熱海校",
+  "license_type" : "普通車AT",
+  "start_time" : "2019-01-29",
+  "end_time" : "2019-02-12",
+  "start_m" : "01",
+  "updated_at" : ISODate("2018-11-27T04:04:02.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:04:02.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc23209c633ed151337c4"),
+  "school_name" : "マジオドライバーズスクール熱海校",
+  "license_type" : "普通車MT",
+  "start_time" : "2019-01-29",
+  "end_time" : "2019-02-14",
+  "start_m" : "01",
+  "updated_at" : ISODate("2018-11-27T04:04:02.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:04:02.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc23209c633ed151337c5"),
+  "school_name" : "マジオドライバーズスクール熱海校",
+  "license_type" : "普通車AT",
+  "start_time" : "2019-01-31",
+  "end_time" : "2019-02-14",
+  "start_m" : "01",
+  "updated_at" : ISODate("2018-11-27T04:04:02.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:04:02.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc23209c633ed151337c6"),
+  "school_name" : "マジオドライバーズスクール熱海校",
+  "license_type" : "普通車MT",
+  "start_time" : "2019-02-03",
+  "end_time" : "2019-02-19",
+  "start_m" : "02",
+  "updated_at" : ISODate("2018-11-27T04:04:02.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:04:02.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc23209c633ed151337c7"),
+  "school_name" : "マジオドライバーズスクール熱海校",
+  "license_type" : "普通車AT",
+  "start_time" : "2019-02-05",
+  "end_time" : "2019-02-19",
+  "start_m" : "02",
+  "updated_at" : ISODate("2018-11-27T04:04:02.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:04:02.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc23209c633ed151337c8"),
+  "school_name" : "マジオドライバーズスクール熱海校",
+  "license_type" : "普通車AT",
+  "start_time" : "2019-02-07",
+  "end_time" : "2019-02-21",
+  "start_m" : "02",
+  "updated_at" : ISODate("2018-11-27T04:04:02.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:04:02.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc23209c633ed151337c9"),
+  "school_name" : "マジオドライバーズスクール熱海校",
+  "license_type" : "普通車MT",
+  "start_time" : "2019-02-10",
+  "end_time" : "2019-02-26",
+  "start_m" : "02",
+  "updated_at" : ISODate("2018-11-27T04:04:02.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:04:02.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc23209c633ed151337ca"),
+  "school_name" : "マジオドライバーズスクール熱海校",
+  "license_type" : "普通車AT",
+  "start_time" : "2019-02-12",
+  "end_time" : "2019-02-26",
+  "start_m" : "02",
+  "updated_at" : ISODate("2018-11-27T04:04:02.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:04:02.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc23209c633ed151337cb"),
+  "school_name" : "マジオドライバーズスクール熱海校",
+  "license_type" : "普通車AT",
+  "start_time" : "2019-02-14",
+  "end_time" : "2019-02-28",
+  "start_m" : "02",
+  "updated_at" : ISODate("2018-11-27T04:04:02.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:04:02.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc23209c633ed151337cc"),
+  "school_name" : "マジオドライバーズスクール熱海校",
+  "license_type" : "普通車MT",
+  "start_time" : "2019-02-17",
+  "end_time" : "2019-03-05",
+  "start_m" : "02",
+  "updated_at" : ISODate("2018-11-27T04:04:02.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:04:02.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc23209c633ed151337cd"),
+  "school_name" : "マジオドライバーズスクール熱海校",
+  "license_type" : "普通車AT",
+  "start_time" : "2019-02-19",
+  "end_time" : "2019-03-05",
+  "start_m" : "02",
+  "updated_at" : ISODate("2018-11-27T04:04:02.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:04:02.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc23209c633ed151337ce"),
+  "school_name" : "マジオドライバーズスクール熱海校",
+  "license_type" : "普通車AT",
+  "start_time" : "2019-02-21",
+  "end_time" : "2019-03-07",
+  "start_m" : "02",
+  "updated_at" : ISODate("2018-11-27T04:04:02.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:04:02.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc23209c633ed151337cf"),
+  "school_name" : "マジオドライバーズスクール熱海校",
+  "license_type" : "普通車MT",
+  "start_time" : "2019-02-24",
+  "end_time" : "2019-03-12",
+  "start_m" : "02",
+  "updated_at" : ISODate("2018-11-27T04:04:02.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:04:02.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc23209c633ed151337d0"),
+  "school_name" : "マジオドライバーズスクール熱海校",
+  "license_type" : "普通車AT",
+  "start_time" : "2019-02-26",
+  "end_time" : "2019-03-12",
+  "start_m" : "02",
+  "updated_at" : ISODate("2018-11-27T04:04:02.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:04:02.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc23209c633ed151337d1"),
+  "school_name" : "マジオドライバーズスクール熱海校",
+  "license_type" : "普通車AT",
+  "start_time" : "2019-02-28",
+  "end_time" : "2019-03-14",
+  "start_m" : "02",
+  "updated_at" : ISODate("2018-11-27T04:04:02.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:04:02.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc23209c633ed151337d2"),
+  "school_name" : "マジオドライバーズスクール熱海校",
+  "license_type" : "普通車MT",
+  "start_time" : "2019-03-03",
+  "end_time" : "2019-03-19",
+  "start_m" : "03",
+  "updated_at" : ISODate("2018-11-27T04:04:02.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:04:02.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc23209c633ed151337d3"),
+  "school_name" : "マジオドライバーズスクール熱海校",
+  "license_type" : "普通車AT",
+  "start_time" : "2019-03-05",
+  "end_time" : "2019-03-19",
+  "start_m" : "03",
+  "updated_at" : ISODate("2018-11-27T04:04:02.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:04:02.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc23209c633ed151337d4"),
+  "school_name" : "マジオドライバーズスクール熱海校",
+  "license_type" : "普通車AT",
+  "start_time" : "2019-03-07",
+  "end_time" : "2019-03-21",
+  "start_m" : "03",
+  "updated_at" : ISODate("2018-11-27T04:04:02.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:04:02.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc23209c633ed151337d5"),
+  "school_name" : "マジオドライバーズスクール熱海校",
+  "license_type" : "普通車MT",
+  "start_time" : "2019-03-10",
+  "end_time" : "2019-03-26",
+  "start_m" : "03",
+  "updated_at" : ISODate("2018-11-27T04:04:02.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:04:02.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc23209c633ed151337d6"),
+  "school_name" : "マジオドライバーズスクール熱海校",
+  "license_type" : "普通車AT",
+  "start_time" : "2019-03-12",
+  "end_time" : "2019-03-26",
+  "start_m" : "03",
+  "updated_at" : ISODate("2018-11-27T04:04:02.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:04:02.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc23209c633ed151337d7"),
+  "school_name" : "マジオドライバーズスクール熱海校",
+  "license_type" : "普通車AT",
+  "start_time" : "2019-03-14",
+  "end_time" : "2019-03-28",
+  "start_m" : "03",
+  "updated_at" : ISODate("2018-11-27T04:04:02.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:04:02.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc23209c633ed151337d8"),
+  "school_name" : "マジオドライバーズスクール熱海校",
+  "license_type" : "普通車MT",
+  "start_time" : "2019-03-17",
+  "end_time" : "2019-04-02",
+  "start_m" : "03",
+  "updated_at" : ISODate("2018-11-27T04:04:02.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:04:02.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc23209c633ed151337d9"),
+  "school_name" : "マジオドライバーズスクール熱海校",
+  "license_type" : "普通車AT",
+  "start_time" : "2019-03-19",
+  "end_time" : "2019-04-02",
+  "start_m" : "03",
+  "updated_at" : ISODate("2018-11-27T04:04:02.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:04:02.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc23209c633ed151337da"),
+  "school_name" : "マジオドライバーズスクール熱海校",
+  "license_type" : "普通車AT",
+  "start_time" : "2019-03-21",
+  "end_time" : "2019-04-04",
+  "start_m" : "03",
+  "updated_at" : ISODate("2018-11-27T04:04:02.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:04:02.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc23209c633ed151337db"),
+  "school_name" : "マジオドライバーズスクール熱海校",
+  "license_type" : "普通車MT",
+  "start_time" : "2019-03-24",
+  "end_time" : "2019-04-09",
+  "start_m" : "03",
+  "updated_at" : ISODate("2018-11-27T04:04:02.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:04:02.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc23209c633ed151337dc"),
+  "school_name" : "マジオドライバーズスクール熱海校",
+  "license_type" : "普通車AT",
+  "start_time" : "2019-03-26",
+  "end_time" : "2019-04-09",
+  "start_m" : "03",
+  "updated_at" : ISODate("2018-11-27T04:04:02.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:04:02.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc23209c633ed151337dd"),
+  "school_name" : "マジオドライバーズスクール熱海校",
+  "license_type" : "普通車MT",
+  "start_time" : "2019-03-26",
+  "end_time" : "2019-04-11",
+  "start_m" : "03",
+  "updated_at" : ISODate("2018-11-27T04:04:02.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:04:02.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc23209c633ed151337de"),
+  "school_name" : "マジオドライバーズスクール熱海校",
+  "license_type" : "普通車AT",
+  "start_time" : "2019-03-28",
+  "end_time" : "2019-04-11",
+  "start_m" : "03",
+  "updated_at" : ISODate("2018-11-27T04:04:02.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:04:02.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc23209c633ed151337df"),
+  "school_name" : "マジオドライバーズスクール熱海校",
+  "license_type" : "普通車MT",
+  "start_time" : "2019-03-31",
+  "end_time" : "2019-04-16",
+  "start_m" : "03",
+  "updated_at" : ISODate("2018-11-27T04:04:02.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:04:02.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc23209c633ed151337e0"),
+  "school_name" : "マジオドライバーズスクール熱海校",
+  "license_type" : "普通車AT",
+  "start_time" : "2019-04-02",
+  "end_time" : "2019-04-16",
+  "start_m" : "04",
+  "updated_at" : ISODate("2018-11-27T04:04:02.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:04:02.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc23209c633ed151337e1"),
+  "school_name" : "マジオドライバーズスクール熱海校",
+  "license_type" : "普通車AT",
+  "start_time" : "2019-04-04",
+  "end_time" : "2019-04-18",
+  "start_m" : "04",
+  "updated_at" : ISODate("2018-11-27T04:04:02.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:04:02.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc23209c633ed151337e2"),
+  "school_name" : "マジオドライバーズスクール熱海校",
+  "license_type" : "普通車MT",
+  "start_time" : "2019-04-07",
+  "end_time" : "2019-04-23",
+  "start_m" : "04",
+  "updated_at" : ISODate("2018-11-27T04:04:02.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:04:02.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc23209c633ed151337e3"),
+  "school_name" : "マジオドライバーズスクール熱海校",
+  "license_type" : "普通車AT",
+  "start_time" : "2019-04-09",
+  "end_time" : "2019-04-23",
+  "start_m" : "04",
+  "updated_at" : ISODate("2018-11-27T04:04:02.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:04:02.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc23209c633ed151337e4"),
+  "school_name" : "マジオドライバーズスクール熱海校",
+  "license_type" : "普通車MT",
+  "start_time" : "2019-04-09",
+  "end_time" : "2019-04-25",
+  "start_m" : "04",
+  "updated_at" : ISODate("2018-11-27T04:04:02.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:04:02.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc23209c633ed151337e5"),
+  "school_name" : "マジオドライバーズスクール熱海校",
+  "license_type" : "普通車AT",
+  "start_time" : "2019-04-11",
+  "end_time" : "2019-04-25",
+  "start_m" : "04",
+  "updated_at" : ISODate("2018-11-27T04:04:02.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:04:02.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc23209c633ed151337e6"),
+  "school_name" : "マジオドライバーズスクール熱海校",
+  "license_type" : "普通車MT",
+  "start_time" : "2019-04-14",
+  "end_time" : "2019-04-30",
+  "start_m" : "04",
+  "updated_at" : ISODate("2018-11-27T04:04:02.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:04:02.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc23209c633ed151337e7"),
+  "school_name" : "マジオドライバーズスクール熱海校",
+  "license_type" : "普通車AT",
+  "start_time" : "2019-04-16",
+  "end_time" : "2019-04-30",
+  "start_m" : "04",
+  "updated_at" : ISODate("2018-11-27T04:04:02.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:04:02.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc23209c633ed151337e8"),
+  "school_name" : "マジオドライバーズスクール熱海校",
+  "license_type" : "普通車MT",
+  "start_time" : "2019-04-16",
+  "end_time" : "2019-05-02",
+  "start_m" : "04",
+  "updated_at" : ISODate("2018-11-27T04:04:02.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:04:02.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc23209c633ed151337e9"),
+  "school_name" : "マジオドライバーズスクール熱海校",
+  "license_type" : "普通車AT",
+  "start_time" : "2019-04-18",
+  "end_time" : "2019-05-02",
+  "start_m" : "04",
+  "updated_at" : ISODate("2018-11-27T04:04:02.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:04:02.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc23209c633ed151337ea"),
+  "school_name" : "マジオドライバーズスクール熱海校",
+  "license_type" : "普通車MT",
+  "start_time" : "2019-04-21",
+  "end_time" : "2019-05-07",
+  "start_m" : "04",
+  "updated_at" : ISODate("2018-11-27T04:04:02.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:04:02.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc23209c633ed151337eb"),
+  "school_name" : "マジオドライバーズスクール熱海校",
+  "license_type" : "普通車AT",
+  "start_time" : "2019-04-23",
+  "end_time" : "2019-05-07",
+  "start_m" : "04",
+  "updated_at" : ISODate("2018-11-27T04:04:02.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:04:02.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc23209c633ed151337ec"),
+  "school_name" : "マジオドライバーズスクール熱海校",
+  "license_type" : "普通車MT",
+  "start_time" : "2019-04-23",
+  "end_time" : "2019-05-09",
+  "start_m" : "04",
+  "updated_at" : ISODate("2018-11-27T04:04:02.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:04:02.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc23209c633ed151337ed"),
+  "school_name" : "マジオドライバーズスクール熱海校",
+  "license_type" : "普通車AT",
+  "start_time" : "2019-04-25",
+  "end_time" : "2019-05-09",
+  "start_m" : "04",
+  "updated_at" : ISODate("2018-11-27T04:04:02.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:04:02.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc23209c633ed151337ee"),
+  "school_name" : "マジオドライバーズスクール熱海校",
+  "license_type" : "普通車MT",
+  "start_time" : "2019-04-28",
+  "end_time" : "2019-05-14",
+  "start_m" : "04",
+  "updated_at" : ISODate("2018-11-27T04:04:02.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:04:02.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc23209c633ed151337ef"),
+  "school_name" : "マジオドライバーズスクール熱海校",
+  "license_type" : "普通車AT",
+  "start_time" : "2019-04-30",
+  "end_time" : "2019-05-14",
+  "start_m" : "04",
+  "updated_at" : ISODate("2018-11-27T04:04:02.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:04:02.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc23209c633ed151337f0"),
+  "school_name" : "マジオドライバーズスクール熱海校",
+  "license_type" : "普通車MT",
+  "start_time" : "2019-04-30",
+  "end_time" : "2019-05-16",
+  "start_m" : "04",
+  "updated_at" : ISODate("2018-11-27T04:04:02.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:04:02.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc23209c633ed151337f1"),
+  "school_name" : "マジオドライバーズスクール熱海校",
+  "license_type" : "普通車AT",
+  "start_time" : "2019-05-02",
+  "end_time" : "2019-05-16",
+  "start_m" : "05",
+  "updated_at" : ISODate("2018-11-27T04:04:02.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:04:02.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc23209c633ed151337f2"),
+  "school_name" : "マジオドライバーズスクール熱海校",
+  "license_type" : "普通車MT",
+  "start_time" : "2019-05-05",
+  "end_time" : "2019-05-21",
+  "start_m" : "05",
+  "updated_at" : ISODate("2018-11-27T04:04:02.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:04:02.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc23209c633ed151337f3"),
+  "school_name" : "マジオドライバーズスクール熱海校",
+  "license_type" : "普通車AT",
+  "start_time" : "2019-05-07",
+  "end_time" : "2019-05-21",
+  "start_m" : "05",
+  "updated_at" : ISODate("2018-11-27T04:04:02.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:04:02.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc23209c633ed151337f4"),
+  "school_name" : "マジオドライバーズスクール熱海校",
+  "license_type" : "普通車MT",
+  "start_time" : "2019-05-07",
+  "end_time" : "2019-05-23",
+  "start_m" : "05",
+  "updated_at" : ISODate("2018-11-27T04:04:02.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:04:02.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc23209c633ed151337f5"),
+  "school_name" : "マジオドライバーズスクール熱海校",
+  "license_type" : "普通車AT",
+  "start_time" : "2019-05-09",
+  "end_time" : "2019-05-23",
+  "start_m" : "05",
+  "updated_at" : ISODate("2018-11-27T04:04:02.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:04:02.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc23209c633ed151337f6"),
+  "school_name" : "マジオドライバーズスクール熱海校",
+  "license_type" : "普通車MT",
+  "start_time" : "2019-05-12",
+  "end_time" : "2019-05-28",
+  "start_m" : "05",
+  "updated_at" : ISODate("2018-11-27T04:04:02.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:04:02.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc23209c633ed151337f7"),
+  "school_name" : "マジオドライバーズスクール熱海校",
+  "license_type" : "普通車AT",
+  "start_time" : "2019-05-14",
+  "end_time" : "2019-05-28",
+  "start_m" : "05",
+  "updated_at" : ISODate("2018-11-27T04:04:02.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:04:02.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc23209c633ed151337f8"),
+  "school_name" : "マジオドライバーズスクール熱海校",
+  "license_type" : "普通車MT",
+  "start_time" : "2019-05-14",
+  "end_time" : "2019-05-30",
+  "start_m" : "05",
+  "updated_at" : ISODate("2018-11-27T04:04:02.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:04:02.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc23209c633ed151337f9"),
+  "school_name" : "マジオドライバーズスクール熱海校",
+  "license_type" : "普通車AT",
+  "start_time" : "2019-05-16",
+  "end_time" : "2019-05-30",
+  "start_m" : "05",
+  "updated_at" : ISODate("2018-11-27T04:04:02.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:04:02.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc23209c633ed151337fa"),
+  "school_name" : "マジオドライバーズスクール熱海校",
+  "license_type" : "普通車MT",
+  "start_time" : "2019-05-19",
+  "end_time" : "2019-06-04",
+  "start_m" : "05",
+  "updated_at" : ISODate("2018-11-27T04:04:02.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:04:02.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc23209c633ed151337fb"),
+  "school_name" : "マジオドライバーズスクール熱海校",
+  "license_type" : "普通車AT",
+  "start_time" : "2019-05-21",
+  "end_time" : "2019-06-04",
+  "start_m" : "05",
+  "updated_at" : ISODate("2018-11-27T04:04:02.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:04:02.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc23209c633ed151337fc"),
+  "school_name" : "マジオドライバーズスクール熱海校",
+  "license_type" : "普通車MT",
+  "start_time" : "2019-05-21",
+  "end_time" : "2019-06-06",
+  "start_m" : "05",
+  "updated_at" : ISODate("2018-11-27T04:04:02.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:04:02.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc23209c633ed151337fd"),
+  "school_name" : "マジオドライバーズスクール熱海校",
+  "license_type" : "普通車AT",
+  "start_time" : "2019-05-23",
+  "end_time" : "2019-06-06",
+  "start_m" : "05",
+  "updated_at" : ISODate("2018-11-27T04:04:02.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:04:02.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc23209c633ed151337fe"),
+  "school_name" : "マジオドライバーズスクール熱海校",
+  "license_type" : "普通車MT",
+  "start_time" : "2019-05-26",
+  "end_time" : "2019-06-11",
+  "start_m" : "05",
+  "updated_at" : ISODate("2018-11-27T04:04:02.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:04:02.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc23209c633ed151337ff"),
+  "school_name" : "マジオドライバーズスクール熱海校",
+  "license_type" : "普通車AT",
+  "start_time" : "2019-05-28",
+  "end_time" : "2019-06-11",
+  "start_m" : "05",
+  "updated_at" : ISODate("2018-11-27T04:04:02.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:04:02.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc23209c633ed15133800"),
+  "school_name" : "マジオドライバーズスクール熱海校",
+  "license_type" : "普通車MT",
+  "start_time" : "2019-05-28",
+  "end_time" : "2019-06-13",
+  "start_m" : "05",
+  "updated_at" : ISODate("2018-11-27T04:04:02.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:04:02.000+0000")
+}
+{
+  "_id" : ObjectId("5bfcc23209c633ed15133801"),
+  "school_name" : "マジオドライバーズスクール熱海校",
+  "license_type" : "普通車AT",
+  "start_time" : "2019-05-30",
+  "end_time" : "2019-06-13",
+  "start_m" : "05",
+  "updated_at" : ISODate("2018-11-27T04:04:02.000+0000"),
+  "created_at" : ISODate("2018-11-27T04:04:02.000+0000")
+}

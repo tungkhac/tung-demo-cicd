@@ -1,0 +1,44 @@
+doctype html
+html
+  head
+    title LINE Pay
+    |     
+    meta(charset='utf-8')
+    |     
+    meta(name='format-detection', content='telephone=no')
+    |     
+    meta(http-equiv='X-UA-Compatible', content='IE=Edge')
+    |     
+    meta(name='viewport', content='width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, viewport-fit=cover')
+    |     
+    link(rel='icon', sizes='16x16 32x32', href='//scdn.line-apps.com/linepay/web/201908291157/img/favicon.ico', type='image/x-icon')
+    |     
+    link(rel='stylesheet', type='text/css', href='//scdn.line-apps.com/linepay/web/201908291157/css/stylesheet_mobile.min.css')
+    // common
+    link(rel='stylesheet', type='text/css', href='//scdn.line-apps.com/linepay/web/201908291157/css/common.css')
+    |     
+    link(rel='stylesheet', type='text/css', href='//scdn.line-apps.com/linepay/web/201908291157/css/payweb-mobile-service.min.css')
+    |     
+    style#styleFix.
+      * {-webkit-tap-highlight-color: rgba(0,0,0,0);}
+    // //common
+  |   
+  body
+    .payweb_m_wrap
+      .layer
+        .ct.full
+          .ct-container
+            .cbox
+              span.noti
+              | &#x9;&#x9;&#x9;&#x9;決済が完了しました。
+    |     
+    script(src='//scdn.line-apps.com/linepay/web/201908291157/js/jquery.min.js')
+    |     
+    script(src='//scdn.line-apps.com/linepay/web/201908291157/js/controller.min.js')
+    |     
+    script.
+      function closeMe()
+      {
+      window.open('', '_blank', ''); //bug fix
+      window.close();
+      }

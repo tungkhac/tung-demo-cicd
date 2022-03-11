@@ -1,0 +1,16 @@
+{
+    "dbURL" : "mongodb://vagrant:vagrant$@localhost:27017/db-back",
+    "dbuser" : "",
+    "dbpass" : "",
+    "timezone" : "Asia/Tokyo",
+    "port" : "3300",
+    "useNewUrlParser": true,
+    "shortBaseUrl": "http://botchan.local.vn:3300",
+    "appURL": "http://botchan.local.vn:3300",
+    "appNodeURL": "http://botchan.local.vn:5000",
+    "azure_connectstring" : "DefaultEndpointsProtocol=https;AccountName=botchancms;AccountKey=XpNSTGW+MwDxpO+L3DSFKtxd1eyOZEjryNmyrpkpT2mfvNjvpIZG27FOfvbP6GZ868TgY4NEe/Fq1umw8d8nzg==;EndpointSuffix=core.windows.net",
+    "azure_storage_container" : "vinh",
+    "azure_storage_name" : "botchancms",
+    "mailchimp_apikey": "67660347dffa525248f63f3237d11b60-us20",
+    "autoGenerateUserId": "5e61b4a7f644ffbbd9aaa68e"
+}
