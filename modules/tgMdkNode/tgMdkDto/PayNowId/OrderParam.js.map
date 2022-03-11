@@ -1,1 +1,0 @@
-{"version":3,"file":"OrderParam.js","sourceRoot":"","sources":["../../../src/tgMdkNode/tgMdkDto/PayNowId/OrderParam.ts"],"names":[],"mappings":";;;;;;;;AAAA,qDAAyD;AAGzD,IAAa,UAAU,GAAvB;CAQC,CAAA;AALG;IADC,8BAAY,CAAC,iBAAiB,EAAE,MAAM,CAAC;mDAChB;AAGxB;IADC,8BAAY,CAAC,oBAAoB,EAAE,MAAM,CAAC;sDAChB;AANlB,UAAU;IADtB,4BAAU,CAAC,YAAY,CAAC;GACZ,UAAU,CAQtB;AARY,gCAAU"}

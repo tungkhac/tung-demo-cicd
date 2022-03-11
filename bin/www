@@ -5,10 +5,8 @@
  */
 
 var app = require('../app');
-const cluster = require('cluster');
-var debug = require('debug')('api-botchan:server');
+var debug = require('debug')('khactung_api:server');
 var http = require('http');
-const numCpus = require('os').cpus().length;
 const config = require('config');
 /**
  * Get port from environment and store in Express.
@@ -17,35 +15,19 @@ const config = require('config');
 var port = normalizePort(process.env.PORT || config.get('port'));
 app.set('port', port);
 
-cluster.schedulingPolicy = cluster.SCHED_RR;
+/**
+ * Create HTTP server.
+ */
 
-if (cluster.isMaster) {
-   console.log(`Master ${process.pid} is running`);
-   for (let i = 0; i < numCpus; i++) {
-        cluster.fork();
-   }
-   cluster.on('exit', (worker, code, signal) => {
-     console.log(`worker ${worker.process.pid} died with signal`, signal);
-     cluster.fork();
-   });
-}else {
-   /**
-    * Create HTTP server.
-    */
+var server = http.createServer(app);
 
-   var server = http.createServer(app);
+/**
+ * Listen on provided port, on all network interfaces.
+ */
 
-   /**
-    * Listen on provided port, on all network interfaces.
-    */
-
-   server.listen(port);
-   server.on('error', onError);
-   server.on('listening', onListening);
-   console.log(`Worker ${process.pid} started`);
-}
-
-
+server.listen(port);
+server.on('error', onError);
+server.on('listening', onListening);
 
 /**
  * Normalize a port into a number, string, or false.

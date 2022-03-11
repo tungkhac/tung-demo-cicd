@@ -4,11 +4,9 @@ pids
 node_modules
 .npm
 *.dat
-config/default.json
-.idea/
-coverage/
+//config/default.json
+.idea
+
 // Dont push code build
 routes/trendexpress.js
-
-matchwatch
-/package-lock.json
+/.idea/

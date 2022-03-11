@@ -1,4 +1,0 @@
-{
-  "dbURL": "mongodb://127.0.0.1:27017/botchan-test",
-  "//": ["Test configurations will be inherited from `default.json`."]
-}
