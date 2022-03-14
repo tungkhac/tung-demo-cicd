@@ -14,8 +14,6 @@ RUN rm -f package-lock.json
 
 RUN npm install
 
-COPY . .
-
 # Run file
 #CMD ["forever", "--uid", "botchan_api", "--append", "start", "bin/www"]
 CMD [ "node", "bin/www" ]
