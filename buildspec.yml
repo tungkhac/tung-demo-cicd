@@ -12,12 +12,13 @@ phases:
     commands:
       - echo Installing source NPM dependencies...
       - npm install
-#      - npm install unit.js
-#  build:
-#    commands:
-#      - echo Build started on `date`
-#      - echo Compiling the Node.js code
-#      - mocha test.js
+      - npm install forever -g
+  build:
+    commands:
+      - echo Build started on `date`
+      - echo Compiling the Node.js code
+      - forever stopall
+      - forever start --uid "topnal_demo_cicd" --append start /home/ubuntu/topnal_demo_cicd/bin/www
   post_build:
     commands:
       - echo Build completed on `date`

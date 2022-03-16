@@ -13,6 +13,7 @@ RUN npm config set unsafe-perm true
 RUN rm -f package-lock.json
 
 RUN npm install
+RUN npm install forever -g
 
 # Run file
 #CMD ["forever", "--uid", "botchan_api", "--append", "start", "bin/www"]
