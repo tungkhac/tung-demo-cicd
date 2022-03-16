@@ -3,6 +3,14 @@ os: linux
 files:
   - source: /
     destination: /var/www/topnal_demo_cicd
+permissions:
+  - object: /var/www/topnal_demo_cicd
+    pattern: "**"
+    owner: nginx
+    group: nginx
+    mode: 755
+    type:
+      - file
 hooks:
   BeforeInstall:
     - location: scripts/before_install.sh
