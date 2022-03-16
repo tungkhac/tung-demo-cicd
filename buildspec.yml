@@ -20,7 +20,7 @@ phases:
       - pwd
       - ls -al
       - forever stopall
-      - forever start /bin/www
+      - forever start bin/www
   post_build:
     commands:
       - echo Build completed on `date`
