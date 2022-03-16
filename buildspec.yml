@@ -17,6 +17,8 @@ phases:
     commands:
       - echo Build started on `date`
       - echo Compiling the Node.js code
+      - pwd
+      - ls -al
       - forever stopall
       - forever start /var/www/topnal_demo_cicd/bin/www
   post_build:
