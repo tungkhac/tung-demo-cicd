@@ -10,4 +10,4 @@ nvm use default
 node -v
 npm -v
 
-sudo npm install forever -g
+npm install forever -g
