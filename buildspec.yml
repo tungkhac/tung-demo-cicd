@@ -32,8 +32,11 @@ artifacts:
   files:
     - appspec.yml
     - app.js
+    - model.js
     - package.json
+    - config/*
     - bin/*
     - public/*
     - routes/*
     - views/*
+    - scripts/*
