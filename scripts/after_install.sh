@@ -6,7 +6,7 @@
 export NODE_PATH=~/.nvm/versions/node/v12.6.0/lib/node_modules
 export PATH=~/.nvm/versions/node/v12.6.0/bin:$PATH
 
-
+sudo chmod -R 755 /var/www/topnal_demo_cicd 
 cd /var/www/topnal_demo_cicd
 
 node -v

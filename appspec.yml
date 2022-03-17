@@ -5,19 +5,13 @@ files:
     destination: /var/www/topnal_demo_cicd
 permissions:
   - object: /var/www/topnal_demo_cicd
+    pattern: "**"
     owner: www-data #get from nginx.conf file
     group: www-data
     mode: 755
     type:
       - directory
-#  - object: /var/www/topnal_demo_cicd
-#    pattern: "**"
-#    owner: www-data #get from nginx.conf file
-#    group: www-data
-#    mode: 755
-#    type:
-#      - directory
-#      - file
+      - file
 hooks:
 #  ApplicationStop:
   BeforeInstall:
