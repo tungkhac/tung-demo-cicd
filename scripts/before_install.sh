@@ -1,6 +1,6 @@
 #!/bin/bash
-NODE_VERSION=12.6.0
-NVM_DIR=~/.nvm/nvm.sh
+#NODE_VERSION=12.6.0
+#NVM_DIR=~/.nvm/nvm.sh
 
 
 # Install nvm
