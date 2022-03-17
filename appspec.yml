@@ -6,10 +6,11 @@ files:
 permissions:
   - object: /var/www/topnal_demo_cicd
     pattern: "**"
-    owner: www-data
+    owner: www-data #get from nginx.conf file
     group: www-data
     mode: 755
     type:
+      - directory
       - file
 hooks:
   BeforeInstall:
