@@ -9,7 +9,7 @@ permissions:
     pattern: "topnal_demo_cicd"
     owner: www-data #get from nginx.conf file
     group: www-data
-    mode: 775
+    mode: 777
     type:
       - directory
   #set for file + folder in project 
@@ -17,7 +17,7 @@ permissions:
     pattern: "**"
     owner: www-data #get from nginx.conf file
     group: www-data
-    mode: 775
+    mode: 777
     type:
       - directory
       - file
