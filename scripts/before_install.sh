@@ -7,4 +7,7 @@ nvm install 12.6.0
 nvm alias default 12.6.0
 nvm use default
 
+node -v
+npm -v
+
 sudo npm install forever -g
