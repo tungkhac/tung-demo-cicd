@@ -1,15 +1,18 @@
 #!/bin/bash
-#NODE_VERSION=12.6.0
-#NVM_DIR=~/.nvm/nvm.sh
-#NVM_INSTALL_PATH=$NVM_DIR/versions/node/v$NODE_VERSION
+NODE_VERSION_VAR=12.6.0
+NVM_INSTALL_PATH_VAR=~/.nvm/versions/node/v$NODE_VERSION_VAR
 
-export NODE_PATH=~/.nvm/versions/node/v12.6.0/lib/node_modules
-export PATH=~/.nvm/versions/node/v12.6.0/bin:$PATH
+export NODE_PATH=$NVM_INSTALL_PATH_VAR/lib/node_modules
+export PATH=$NVM_INSTALL_PATH_VAR/bin:$PATH
 
-sudo chmod -R 755 /var/www/topnal_demo_cicd 
+echo "---Set chmod"
+sudo chmod -R 755 /var/www/topnal_demo_cicd
+echo "---cd to project" 
 cd /var/www/topnal_demo_cicd
 
 node -v
 npm -v
+pwd
 
+echo "---Npm install"
 npm install
