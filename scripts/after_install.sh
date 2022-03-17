@@ -1,5 +1,5 @@
 #!/bin/bash
-NODE_VERSION="12.6.0"
+NODE_VERSION=12.6.0
 NVM_DIR=~/.nvm/nvm.sh
 NVM_INSTALL_PATH=$NVM_DIR/versions/node/v$NODE_VERSION
 
