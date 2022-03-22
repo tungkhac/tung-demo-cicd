@@ -2,12 +2,13 @@
 // process.env.NODE_ENV = 'develop';
 
 //Require the dev-dependencies
-import chai from 'chai';
+import * as chai from 'chai';
 import chaiHttp from 'chai-http';
-let app = require('../app');
 let should = chai.should();
-chai.use(chaiHttp);
+import { expect } from 'chai'
+let app = require('../app');
 
+chai.use(chaiHttp);
 //Our parent block
 describe('sample', () => {
     beforeEach((done) => {
