@@ -23,7 +23,7 @@ describe('sample', () => {
     describe('/GET brand', () => {
         it('it should GET all brand', (done) => {
             chai.request(app)
-            .get('/brand')
+            .get('/sample/brand')
             .end((err, res) => {
                 expect(res).to.have.status(200);
                 // expect(res).to.have.header('content-type', 'application/json; charset=utf-8');
