@@ -29,14 +29,14 @@ describe('sample', () => {
                 // expect(res).to.have.header('content-type', 'application/json; charset=utf-8');
                 expect(res.body).to.be.a('object');
                 let body = res.body;                
-                console.log('body:', body);
+                // console.log('body:', body);
                 
                 expect(body).to.have.property('success', true);
                 
                 expect(body).to.have.property('data');
-                expect(body).data.to.be.a('object');
+                expect(body.data).to.be.a('object');
                 // expect(body).length.to.be.eql(9);
-                expect(body).data.to.have.property('viettien, Việt Tiến');
+                expect(body.data).to.have.property('viettien, Việt Tiến');
                 // done();
             });
             /*.end((err, res) => {
