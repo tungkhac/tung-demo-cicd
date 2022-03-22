@@ -27,9 +27,8 @@ describe('sample', () => {
             .end((err, res) => {
                 expect(res).to.have.status(200);
                 // expect(res).to.have.header('content-type', 'application/json; charset=utf-8');
-                console.log('--->' , typeof res.body);
-                // expect(res.body).to.be.a('string');
-                let body = JSON.parse(res.body);
+                expect(res.body).to.be.a('object');
+                let body = res.body;                
                 expect(body).to.have.property('success', true);
                 
                 expect(body).to.have.property('data');
