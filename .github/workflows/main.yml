@@ -16,8 +16,8 @@ on:
   workflow_dispatch:
 
 env:
-  NODE_VERSION_VAR=12.6.0
-  NVM_DIR_VAR=~/.nvm/nvm.sh
+  NODE_VERSION_VAR: 12.6.0
+  NVM_DIR_VAR: ~/.nvm/nvm.sh
 
 jobs:
   build:
