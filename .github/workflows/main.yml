@@ -24,39 +24,23 @@ jobs:
     name: Build
     environment: development
     # The type of runner that the job will run on
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-20.04
         
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - name: Checkout
         uses: actions/checkout@v2
         
-#      - name: Use Node.js 12
-#        uses: actions/setup-node@v2
-#        with:
-#          node-version: "12"
-#          check-latest: true
+      - name: Use Node.js 12
+        uses: actions/setup-node@v2
+        with:
+          node-version: "12"
+          check-latest: true
           
       # Runs a single command using the runners shell
       #- name: Run a one-line script
       #  run: echo Hello, world!
 
-      - name: Install NVM
-        run: |
-          curl --silent -o- https://raw.githubusercontent.com/nvm-sh/nvm/master/install.sh | bash
-          source $NVM_DIR_VAR
-          nvm install $NODE_VERSION_VAR
-          nvm alias default $NODE_VERSION_VAR
-          nvm use default
-          echo NVM install successfully.
-          node -v
-          npm -v
-          
-      - name: Install forever
-        run: |
-          npm install forever -g
-          echo forever install successfully.
-        
       - name: Build
         run: |
           pwd
