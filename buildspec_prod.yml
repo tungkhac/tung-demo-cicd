@@ -10,6 +10,7 @@ phases:
 #      - npm install -g mocha
   pre_build:
     commands:
+      - echo PRODUCTION build
       - echo Installing source NPM dependencies...
       - npm install
       - npm install forever -g
