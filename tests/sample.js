@@ -35,7 +35,7 @@ describe('sample', () => {
                 
                 expect(body).to.have.property('data');
                 expect(body.data).to.be.a('object');
-                expect(Object.keys(body.data)).length.to.be.eql(9);
+                expect(Object.keys(body.data).length).to.be.eql(9);
                 expect(body.data).to.have.property('viettien', 'Việt Tiến');
                 done();
             });
