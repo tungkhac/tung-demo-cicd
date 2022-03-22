@@ -1,3 +1,4 @@
 {
+    "mode": "develop",
     "port" : "3400"
 }

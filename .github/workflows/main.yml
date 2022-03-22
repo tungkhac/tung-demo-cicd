@@ -44,9 +44,8 @@ jobs:
         run: |
           pwd
           npm install
-          npm install forever -g
           echo NPM install successfully.
           
-      - name: Start
+      - name: Test
         run: |
-          forever --uid "node_app" --append start bin/www
+          npm test
