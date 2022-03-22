@@ -4,7 +4,7 @@
 //Require the dev-dependencies
 let chai = require('chai');
 let chaiHttp = require('chai-http');
-let server = require('../server');
+let app = require('../app');
 let should = chai.should();
 
 chai.use(chaiHttp);
@@ -19,7 +19,7 @@ describe('sample', () => {
      */
     describe('/GET brand', () => {
         it('it should GET all brand', (done) => {
-            chai.request(server)
+            chai.request(app)
                 .get('/brand')
                 .end((err, res) => {
                     res.should.have.status(200);
