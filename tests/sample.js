@@ -2,11 +2,11 @@
 // process.env.NODE_ENV = 'develop';
 
 //Require the dev-dependencies
-import * as chai from 'chai';
-import chaiHttp from 'chai-http';
-let should = chai.should();
-import { expect } from 'chai'
+let chai = require('chai');
+let chaiHttp = require('chai-http');
 let app = require('../app');
+let should = chai.should();
+let expect = chai.expect;
 
 chai.use(chaiHttp);
 //Our parent block
