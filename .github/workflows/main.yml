@@ -17,7 +17,6 @@ on:
 
 env:
   NODE_VERSION_VAR: 12.6.0
-  NVM_DIR_VAR: ~/.nvm/nvm.sh
 
 jobs:
   build:
@@ -49,6 +48,4 @@ jobs:
           
       - name: Start
         run: |
-          forever --version
-          forever stop bin/www
-          forever --uid "node_app" --append start bin/www
+          node bin/www
