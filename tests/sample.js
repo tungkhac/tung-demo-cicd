@@ -36,8 +36,8 @@ describe('sample', () => {
                 expect(body).to.have.property('data');
                 expect(body.data).to.be.a('object');
                 // expect(body).length.to.be.eql(9);
-                expect(body.data).to.have.property('viettien, Việt Tiến');
-                done();
+                expect(body.data).to.have.property('viettien', 'Việt Tiến');
+                // done();
             });
             /*.end((err, res) => {
                 // res.should.have.status(200);
