@@ -1,6 +1,21 @@
-#AWS CICD Nodejs application
+# AWS CICD Nodejs application
 
-## Example template
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li><a href="#example-value">Example value</a></li>
+    <li><a href="#s3">S3</a></li>
+    <li><a href="#role-and-policy">Role and policy</a></li>
+    <li><a href="#ec2">EC2</a></li>
+    <li><a href="#create-codebuild">Create CodeBuild</a></li>
+    <li><a href="#create-codedeploy">Create CodeDeploy</a></li>
+    <li><a href="#create-pipeline">Create Pipeline</a></li>
+  </ol>
+</details>
+
+
+## Example value
 - S3 bucket name: `topnal-demo-cicd`
 - S3 access policy (see below): `CodeDeploy-S3-Permissions`
 
@@ -31,7 +46,7 @@
     1. select ACLs enabled
     2. select Bucket owner preferred
 
-## Role + policy
+## Role and policy
 ##### 1. EC2: Role and policy
 - Refer link: https://docs.aws.amazon.com/codedeploy/latest/userguide/getting-started-create-iam-instance-profile.html
 - Step: 
@@ -115,7 +130,7 @@ $ sudo apt update
 	
 
 
-## CodeDeploy:
+## Create CodeDeploy:
 ##### 1. Create application
 - Application name: `topnal-demo-cicd`
 - Compute platform: EC2/On-premises
@@ -139,7 +154,7 @@ $ sudo apt update
 
 	
 	
-## Pipelines:
+## Create Pipeline:
 - Pipeline settings
     - Pipeline name: `pipeline-topnal-demo-cicd`
     - Service role: create new `PipeLineRole` or use existing
