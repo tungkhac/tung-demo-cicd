@@ -130,7 +130,7 @@ $ sudo apt update
 	
 
 
-## Create CodeDeploy:
+## Create CodeDeploy
 ##### 1. Create application
 - Application name: `topnal-demo-cicd`
 - Compute platform: EC2/On-premises
@@ -154,7 +154,7 @@ $ sudo apt update
 
 	
 	
-## Create Pipeline:
+## Create Pipeline
 - Pipeline settings
     - Pipeline name: `pipeline-topnal-demo-cicd`
     - Service role: create new `PipeLineRole` or use existing
