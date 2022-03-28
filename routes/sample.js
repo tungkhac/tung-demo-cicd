@@ -13,7 +13,7 @@ const _brand_list = {
     nhabe: 'Nhà Bè - NBC'
 };
 
-router.geta('/brand', function (req, res, next) {
+router.getb('/brand', function (req, res, next) {
     res.setHeader('Access-Control-Allow-Origin', '*');
     res.header("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept");
 
