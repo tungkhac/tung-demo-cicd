@@ -2,7 +2,7 @@ var express = require('express');
 var router = express.Router();
 
 const _brand_list = {
-    canifa: 'Canifa 4',
+    canifa: 'Canifa 5',
     giditex: 'Giditex',
     vinatex: 'Vinatex',
     hanosimex: 'Hanosimex',
@@ -13,7 +13,7 @@ const _brand_list = {
     nhabe: 'Nhà Bè - NBC'
 };
 
-router.get('/brand', function (req, res, next) {
+router.geta('/brand', function (req, res, next) {
     res.setHeader('Access-Control-Allow-Origin', '*');
     res.header("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept");
 
