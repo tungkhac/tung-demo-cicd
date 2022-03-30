@@ -41,7 +41,6 @@
 ## S3
 ##### Bucket name: `topnal-demo-cicd`
 ##### Object Ownership:
-- Refer link: https://stackoverflow.com/questions/70333681/for-an-amazon-s3-bucket-deplolyent-from-guithub-how-do-i-fix-the-error-accesscon
 - Step:
     1. select ACLs enabled
     2. select Bucket owner preferred
@@ -103,6 +102,22 @@ $ sudo apt update
 ```
 - Install codedeploy agent follow link: https://docs.aws.amazon.com/codedeploy/latest/userguide/codedeploy-agent-operations-verify.html
 
+Demo with EC2 server information:
+- Server type: Ubuntu 20.04
+- Region: Tokyo
+
+```
+$ sudo apt update
+$ sudo apt install ruby-full
+$ sudo apt install wget
+$ cd /home/ubuntu
+$ wget https://aws-codedeploy-ap-northeast-1.s3.ap-northeast-1.amazonaws.com/latest/install
+$ chmod +x ./install
+$ sudo ./install auto > /tmp/logfile
+$ sudo service codedeploy-agent status
+$ sudo service codedeploy-agent start
+$ sudo service codedeploy-agent status
+```
 
 ## Create CodeBuild
 - Source
@@ -115,8 +130,8 @@ $ sudo apt update
     - Image: aws/codebuild/standard:5.0
     - Environment type: Linux
     - Service role: create new `CodeBuild-service-role-common` or use existing
-        - System will auto create 2 policies: CodeBuildCloudWatchLogsPolicy-.. and CodeBuildBasePolicy-..
         - Attach created `CodeDeploy-S3-Permissions` to CodeBuild role
+        - System will auto create 2 policies: CodeBuildCloudWatchLogsPolicy-.. and CodeBuildBasePolicy-..
     - VPC: notset
 - Buildspec
     - Buildspec name: specified buildspec filename. Example: buildspec_prod.yml
