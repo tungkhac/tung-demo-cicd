@@ -4,7 +4,7 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href="#cicd-flow-github-aws)">CICD Flow (Github + AWS)</a></li>
+    <li><a href="#cicd-flow-github--aws">CICD Flow (Github + AWS)</a></li>
     <li><a href="#example-value">Example value</a></li>
     <li><a href="#s3">S3</a></li>
     <li><a href="#role-and-policy">Role and policy</a></li>
