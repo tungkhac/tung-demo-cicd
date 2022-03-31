@@ -21,7 +21,7 @@ env:
   NODE_VERSION_VAR: 12.6.0
 
 jobs:
-  build:
+  build-and-test:
     name: Build
     environment: development
     # The type of runner that the job will run on
