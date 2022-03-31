@@ -5,9 +5,8 @@ name: App CI
 # run workflow when a push or pull is made to any branch, ignore master branch
 on:
   push:
-    branches: 
-      - *
-      - !master
+    branches-ignore: 
+      - master
   pull_request:
     branches: staging
 
