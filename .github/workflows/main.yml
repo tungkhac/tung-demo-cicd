@@ -7,8 +7,6 @@ on:
   push:
     branches-ignore: 
       - master
-  pull_request:
-    branches: staging
 
 #  schedule:
 #    - cron:  '*/15 * * * *' # thực hiện trigger mỗi 15 phút
