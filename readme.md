@@ -4,6 +4,7 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
+    <li><a href="#cicd-flow-github-aws)">CICD Flow (Github + AWS)</a></li>
     <li><a href="#example-value">Example value</a></li>
     <li><a href="#s3">S3</a></li>
     <li><a href="#role-and-policy">Role and policy</a></li>
@@ -36,6 +37,15 @@
 - Pipeline name: `pipeline-topnal-demo-cicd`
 - Pipeline role: `PipeLineRole` (auto create)
 
+
+## CICD Flow (Github + AWS)
+##### Step to step to deploy a future
+1. Create branch `furure/sample_brand` từ `master`
+2. Commit và push code lên branch `furure/sample_brand`
+3. Github sẽ chạy unittest cho branch `furure/sample_brand`, xem trong menu `Action`
+4. Tạo pull request cho branch `furure/sample_brand`
+5. Sau khi chạy unittest thành công, merge branch `furure/sample_brand` vào master
+6. AWS `Pipeline` sẽ auto deploy
 
 
 ## S3
@@ -131,7 +141,7 @@ $ sudo service codedeploy-agent status
     - Environment type: Linux
     - Service role: create new `CodeBuild-service-role-common` or use existing
         - Attach created `CodeDeploy-S3-Permissions` to CodeBuild role
-        - System will auto create 2 policies: CodeBuildCloudWatchLogsPolicy-.. and CodeBuildBasePolicy-..
+        - System will auto create policies: CodeBuildBasePolicy-..
     - VPC: notset
 - Buildspec
     - Buildspec name: specified buildspec filename. Example: buildspec_prod.yml
