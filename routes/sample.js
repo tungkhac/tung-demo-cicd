@@ -2,7 +2,7 @@ var express = require('express');
 var router = express.Router();
 
 const _brand_list = {
-    canifa: 'Canifa 5',
+    canifa: 'Canifa 6',
     giditex: 'Giditex',
     vinatex: 'Vinatex',
     hanosimex: 'Hanosimex',
