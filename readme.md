@@ -40,12 +40,12 @@
 
 ## CICD Flow (Github + AWS)
 ##### Step to step to deploy a future
-1. Create branch `furure/sample_brand` từ `master`
-2. Commit và push code lên branch `furure/sample_brand`
-3. Github sẽ chạy unittest cho branch `furure/sample_brand`, xem trong menu `Action`
-4. Tạo pull request cho branch `furure/sample_brand`
-5. Sau khi chạy unittest thành công, merge branch `furure/sample_brand` vào master
-6. AWS `Pipeline` sẽ auto deploy
+1. Create `furure/sample_brand` branch from `master`
+2. Commit and push code in `furure/sample_brand` branch
+3. Github will run unittest in `furure/sample_brand` branch after push, see in the menu `Action`
+4. Create pull request for `furure/sample_brand` branch
+5. When unittest runs successfully, merge `furure/sample_brand` branch into master
+6. AWS `Pipeline` will run auto deploy
 
 
 ## S3
